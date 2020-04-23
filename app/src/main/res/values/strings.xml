@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Casestudy_SNEHA</string>
+    <string name="life_quote_title">Life Quote Details</string>
+    <string name="life_quote_message">Life Quote Information</string>
+
+    <string name="program_quote_title">Program Quote Details</string>
+
+    <string name="quote_cancel">Cancel</string>
+
+</resources>
